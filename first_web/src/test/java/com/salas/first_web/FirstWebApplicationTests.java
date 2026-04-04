@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.salas.first_web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class FirstWebApplicationTests {
 
 	@Test
 	void contextLoads() {
